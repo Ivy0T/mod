@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: magic 1.20.1 new forge
+Implementation-Version: 1.7.4
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2023-01-02T08:04:57+0100
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

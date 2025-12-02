@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "magic",
+    "name": "SchnurriTV's maggic",
+    "description": "a simple fun magic mod",
+    "version": "1.7.4",
+    "mcversion": "1.20.1"
+    "url": "https://twitter.com/Schnurri_tv",
+    "updateUrl": "",
+    "authorList": ["SchnurriTV - CEO of magic"],
+    "credits": "magic peerson",
+    "logoFile": "banner.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
